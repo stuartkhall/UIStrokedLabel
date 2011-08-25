@@ -1,6 +1,5 @@
 //
 //  UIStrokedLabel.m
-//  AngryBoys
 //
 //  Created by Stuart Hall on 27/07/11.
 //
